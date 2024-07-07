@@ -1,0 +1,12 @@
+{
+  "name": "@jfn/ngx-components",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^18.0.0",
+    "@angular/core": "^18.0.0",
+    "chip-selector":"1.0.0"
+  },
+  "dependencies": {
+  },
+  "sideEffects": false
+}
