@@ -1,3 +1,5 @@
-<jfn-card-user></jfn-card-user>
+@for (user of userList; track $index) {
+  <jfn-card-user [user]="user" (checked)="onUserCheck($event)"></jfn-card-user>
+}
 
 <jfn-top-button></jfn-top-button>

@@ -1,1 +1,19 @@
-<p>card-user works!</p>,
+@if (user) {
+<div class="jfn-card-user">
+  <img
+    [ngClass]="{ 'jfn-card-user--avatar': cardType === 'avatar' }"
+    [src]="user.picture?.medium"
+    alt="user image"
+  />
+  <div class="jfn-card-user--info">
+    <p>{{ user.name?.first || "" }}</p>
+    <p>{{ user.name?.last || "" }}</p>
+  </div>
+  @if (check) {
+  <div class="jfn-card-user--check">
+    <input type="checkbox" id="checkbox" (click)="onCheck()">
+    <label for="checkbox">Check</label>
+  </div>
+  }
+</div>
+}

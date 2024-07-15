@@ -1,0 +1,27 @@
+.jfn-card-user{
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  height: 13rem;
+  background-color: rgb(128,179,223);
+  border-radius: 0.5rem;
+  box-shadow: 1px 9px 9px #969c9c;
+}
+
+
+.jfn-card-user img{
+  display: block;
+  height: 100%;
+}
+
+.jfn-card-user--info,.jfn-card-user--check{
+  flex: auto;
+  text-align: center;
+  margin: 0;
+}
+
+.jfn-card-user--avatar{
+  max-width: 20rem;
+  max-height: 20rem;
+  border-radius: 50%;
+}

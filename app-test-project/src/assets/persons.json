@@ -1,0 +1,94 @@
+{
+    "results": [
+        {
+            "name": { 
+                "first": "Jhon",
+                "last": "Smith"
+            },
+            "picture": {
+               "medium": "../assets/images/person1.jpg"
+            }
+        },
+        {
+            "name": { 
+                "first": "Philips",
+                "last": "Williams"
+            },
+            "picture": {
+                "medium": "../assets/images/person2.jpg"
+            }
+        },
+        {
+            "name": { 
+                "first": "Redington",
+                "last": "García"
+            },
+            "picture": {
+                "medium": "../assets/images/person3.jpg"
+             }
+        },
+        {
+            "name": { 
+                "first": "Richard",
+                "last": "Vaughan"
+            },
+            "picture": {
+                "medium": "../assets/images/person4.jpg"
+             }
+        },
+        {
+            "name": { 
+                "first": "Jack",
+                "last": "Sparrow"
+            },
+            "picture": {
+                "medium": "../assets/images/person5.jpg"
+             }
+        },
+        {
+            "name": { 
+                "first": "Harry",
+                "last": "González"
+            },
+            "picture": {
+                "medium": "../assets/images/person6.jpg"
+             }
+        },
+        {
+            "name": { 
+                "first": "Jacob",
+                "last": "Murphy"
+            },
+            "picture": {
+                "medium": "../assets/images/person7.jpg"
+             }
+        },
+        {
+            "name": { 
+                "first": "Abby",
+                "last": "Wilson"
+            },
+            "picture": {
+                "medium": "../assets/images/person8.jpg"
+             }
+        },
+        {
+            "name": { 
+                "first": "Agnes",
+                "last": "Wang"
+            },
+            "picture": {
+                "medium": "../assets/images/person9.jpg"
+             }
+        },
+        {
+            "name": { 
+                "first": "Daisy",
+                "last": "Li"
+            },
+            "picture": {
+                "medium": "../assets/images/person10.jpg"
+             }
+        }
+    ]
+}
